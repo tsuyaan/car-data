@@ -2,35 +2,12 @@
   "cars": [
    {
       "id":33362491,
-      "make":"BMW",
-      "model":"i3",
-      "version":"REX FULL 8V ELÉTRICO 4P AUTOMÁTICO",
+      "brand":"Bmw",
+      "model":"I3",
       "price":"R$ 144.900",
       "year":"2014/2015",
       "travelledDistance":"37000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca",
-         "Único dono",
-         "IPVA pago",
-         "Licenciado",
-         "Garantia de fábrica"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":true,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202007/20200712/bmw-i3-rex-full-8v-eletrico-4p-automatico-WMIMAGEM11365416266.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202007/20200712/bmw-i3-rex-full-8v-eletrico-4p-automatico-WMIMAGEM11370003419.jpg",
@@ -39,39 +16,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202007/20200712/bmw-i3-rex-full-8v-eletrico-4p-automatico-WMIMAGEM11372262327.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202007/20200712/bmw-i3-rex-full-8v-eletrico-4p-automatico-WMIMAGEM11372842090.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202007/20200712/bmw-i3-rex-full-8v-eletrico-4p-automatico-WMIMAGEM11373930263.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34491557,
-      "make":"BMW",
+      "brand":"Bmw",
       "model":"335i",
-      "version":"3.0 SPORT SEDAN 24V GASOLINA 4P AUTOMÁTICO",
       "price":"R$ 98.000",
       "year":"2011/2012",
       "travelledDistance":"44000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca",
-         "IPVA pago",
-         "Licenciado"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":true,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-335i-3.0-sport-sedan-24v-gasolina-4p-automatico-WMIMAGEM23450752121.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-335i-3.0-sport-sedan-24v-gasolina-4p-automatico-WMIMAGEM23455690869.jpg",
@@ -81,40 +35,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-335i-3.0-sport-sedan-24v-gasolina-4p-automatico-WMIMAGEM23482961090.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-335i-3.0-sport-sedan-24v-gasolina-4p-automatico-WMIMAGEM23492872978.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-335i-3.0-sport-sedan-24v-gasolina-4p-automatico-WMIMAGEM23500835188.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34667460,
-      "make":"PORSCHE",
-      "model":"PANAMERA",
-      "version":"4.8 V8 TURBO GASOLINA 4P AUTOMÁTICO",
+      "brand":"Porsche",
+      "model":"Panamera",
       "price":"R$ 520.000",
       "year":"2016/2016",
       "travelledDistance":"40750 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca",
-         "Todas as revisões feitas pela concessionária",
-         "IPVA pago",
-         "Licenciado"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/porsche-panamera-4.8-v8-turbo-gasolina-4p-automatico-wmimagem15122429624.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/porsche-panamera-4.8-v8-turbo-gasolina-4p-automatico-wmimagem15122495295.jpg",
@@ -128,37 +58,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/porsche-panamera-4.8-v8-turbo-gasolina-4p-automatico-wmimagem15122938948.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/porsche-panamera-4.8-v8-turbo-gasolina-4p-automatico-wmimagem15122988969.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/porsche-panamera-4.8-v8-turbo-gasolina-4p-automatico-wmimagem15123142052.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":33936552,
-      "make":"LAND ROVER",
-      "model":"RANGE ROVER SPORT",
-      "version":"3.0 HSE 4X4 V6 24V TURBO DIESEL 4P AUTOMÁTICO",
+      "brand":"Land rover",
+      "model":"Range Rover Sport",
       "price":"R$ 285.000",
       "year":"2013/2014",
       "travelledDistance":"52500 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":true,
-         "carDelivery":true,
-         "trocaComTroco":false
-      },
-      "seller":"Loja",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200828/land-rover-range-rover-sport-3.0-hse-4x4-v6-24v-turbo-diesel-4p-automatico-wmimagem09332960770.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200828/land-rover-range-rover-sport-3.0-hse-4x4-v6-24v-turbo-diesel-4p-automatico-wmimagem09333002817.jpg",
@@ -179,37 +88,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200828/land-rover-range-rover-sport-3.0-hse-4x4-v6-24v-turbo-diesel-4p-automatico-wmimagem0933404818.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200828/land-rover-range-rover-sport-3.0-hse-4x4-v6-24v-turbo-diesel-4p-automatico-wmimagem09334104420.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200828/land-rover-range-rover-sport-3.0-hse-4x4-v6-24v-turbo-diesel-4p-automatico-wmimagem09334154441.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34453876,
-      "make":"BMW",
+      "brand":"Bmw",
       "model":"X5",
-      "version":"3.0 4X4 M50D I6 TURBO DIESEL 4P AUTOMÁTICO",
       "price":"R$ 350.000",
       "year":"2016/2017",
       "travelledDistance":"38000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":true,
-         "carDelivery":true,
-         "trocaComTroco":false
-      },
-      "seller":"Loja",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-x5-3.0-4x4-m50d-i6-turbo-diesel-4p-automatico-wmimagem17174551937.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-x5-3.0-4x4-m50d-i6-turbo-diesel-4p-automatico-wmimagem17174620628.jpg",
@@ -230,37 +118,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-x5-3.0-4x4-m50d-i6-turbo-diesel-4p-automatico-wmimagem17175592573.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-x5-3.0-4x4-m50d-i6-turbo-diesel-4p-automatico-wmimagem17175640958.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201013/bmw-x5-3.0-4x4-m50d-i6-turbo-diesel-4p-automatico-wmimagem17175684640.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":33957557,
-      "make":"BMW",
+      "brand":"Bmw",
       "model":"X6",
-      "version":"4.4 50I 4X4 COUPÉ 8 CILINDROS 32V BI-TURBO GASOLINA 4P AUTOMÁTICO",
       "price":"R$ 129.900",
       "year":"2009/2010",
       "travelledDistance":"83700 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":true,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200830/bmw-x6-4.4-50i-4x4-coupe-8-cilindros-32v-biturbo-gasolina-4p-automatico-WMIMAGEM06303410792.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200830/bmw-x6-4.4-50i-4x4-coupe-8-cilindros-32v-biturbo-gasolina-4p-automatico-WMIMAGEM06320536914.jpg",
@@ -270,40 +137,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200830/bmw-x6-4.4-50i-4x4-coupe-8-cilindros-32v-biturbo-gasolina-4p-automatico-WMIMAGEM06334131382.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200830/bmw-x6-4.4-50i-4x4-coupe-8-cilindros-32v-biturbo-gasolina-4p-automatico-WMIMAGEM06545305836.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200830/bmw-x6-4.4-50i-4x4-coupe-8-cilindros-32v-biturbo-gasolina-4p-automatico-WMIMAGEM06423320750.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34625639,
-      "make":"LAND ROVER",
-      "model":"RANGE ROVER EVOQUE",
-      "version":"2.2 SDA PRESTIGE 4X4 16V DIESEL 4P AUTOMÁTICO",
+      "brand":"Land rover",
+      "model":"Range Rover Evoque",
       "price":"R$ 151.900",
       "year":"2014/2015",
       "travelledDistance":"70000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca",
-         "Todas as revisões feitas pela concessionária",
-         "IPVA pago",
-         "Licenciado"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201024/land-rover-range-rover-evoque-2.2-sda-prestige-4x4-16v-diesel-4p-automatico-WMIMAGEM13242180196.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201024/land-rover-range-rover-evoque-2.2-sda-prestige-4x4-16v-diesel-4p-automatico-WMIMAGEM13243035118.jpg",
@@ -313,37 +156,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201024/land-rover-range-rover-evoque-2.2-sda-prestige-4x4-16v-diesel-4p-automatico-WMIMAGEM13252487528.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201024/land-rover-range-rover-evoque-2.2-sda-prestige-4x4-16v-diesel-4p-automatico-WMIMAGEM13253721993.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201024/land-rover-range-rover-evoque-2.2-sda-prestige-4x4-16v-diesel-4p-automatico-WMIMAGEM13255028240.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34176859,
-      "make":"LEXUS",
-      "model":"RX350 F-SPORT",
-      "version":"3.5 V6 24V GASOLINA 4P AUTOMÁTICO",
+      "brand":"Lexus",
+      "model":"Rx350 F-sport",
       "price":"R$ 190.000",
       "year":"2016/2016",
       "travelledDistance":"50096 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":true,
-         "sellerBadges":false,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-rx350-fsport-3.5-v6-24v-gasolina-4p-automatico-wmimagem13043223010.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-rx350-fsport-3.5-v6-24v-gasolina-4p-automatico-wmimagem13043369550.jpg",
@@ -365,37 +187,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-rx350-fsport-3.5-v6-24v-gasolina-4p-automatico-wmimagem1304263607.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-rx350-fsport-3.5-v6-24v-gasolina-4p-automatico-wmimagem13042679889.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-rx350-fsport-3.5-v6-24v-gasolina-4p-automatico-wmimagem13042725155.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":33819490,
-      "make":"JAGUAR",
-      "model":"I-PACE",
-      "version":"90 KW EV400 SE AWD ELÉTRICO",
+      "brand":"Jaguar",
+      "model":"I-pace",
       "price":"R$ 399.900",
       "year":"2019/2020",
       "travelledDistance":"3400 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":false,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200818/jaguar-ipace-90-kw-ev400-se-awd-eletrico-wmimagem14210156771.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200818/jaguar-ipace-90-kw-ev400-se-awd-eletrico-wmimagem14210231754.jpg",
@@ -405,37 +206,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200818/jaguar-ipace-90-kw-ev400-se-awd-eletrico-wmimagem14210341155.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200818/jaguar-ipace-90-kw-ev400-se-awd-eletrico-wmimagem14210367751.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200818/jaguar-ipace-90-kw-ev400-se-awd-eletrico-wmimagem14210391176.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":33282103,
-      "make":"MINI",
-      "model":"COOPER",
-      "version":"1.6 S 16V TURBO GASOLINA 2P AUTOMÁTICO",
+      "brand":"Mini",
+      "model":"Cooper",
       "price":"R$ 57.900",
       "year":"2012/2013",
       "travelledDistance":"79370 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":true,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Loja",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201022/mini-cooper-1.6-s-16v-turbo-gasolina-2p-automatico-wmimagem11425200286.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201022/mini-cooper-1.6-s-16v-turbo-gasolina-2p-automatico-wmimagem11425237777.jpg",
@@ -457,41 +237,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201022/mini-cooper-1.6-s-16v-turbo-gasolina-2p-automatico-wmimagem11425868549.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201022/mini-cooper-1.6-s-16v-turbo-gasolina-2p-automatico-wmimagem11425900284.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201022/mini-cooper-1.6-s-16v-turbo-gasolina-2p-automatico-wmimagem11425936140.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34566972,
-      "make":"PORSCHE",
+      "brand":"Porsche",
       "model":"911",
-      "version":"3.0 24V H6 GASOLINA CARRERA S PDK",
       "price":"R$ 835.000",
       "year":"2020/2020",
       "travelledDistance":"2750 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca",
-         "Único dono",
-         "IPVA pago",
-         "Licenciado",
-         "Garantia de fábrica"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":false,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201020/porsche-911-3.0-24v-h6-gasolina-carrera-s-pdk-wmimagem1146516458.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201020/porsche-911-3.0-24v-h6-gasolina-carrera-s-pdk-wmimagem11465219284.jpg",
@@ -503,37 +258,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201020/porsche-911-3.0-24v-h6-gasolina-carrera-s-pdk-wmimagem11465580244.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201020/porsche-911-3.0-24v-h6-gasolina-carrera-s-pdk-wmimagem11465634821.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201020/porsche-911-3.0-24v-h6-gasolina-carrera-s-pdk-wmimagem11465700591.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34633634,
-      "make":"BMW",
+      "brand":"Bmw",
       "model":"X5",
-      "version":"3.0 4X4 30D I6 TURBO DIESEL 4P AUTOMÁTICO",
       "price":"R$ 279.000",
       "year":"2017/2018",
       "travelledDistance":"35500 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":true,
-         "carDelivery":true,
-         "trocaComTroco":false
-      },
-      "seller":"Loja",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201027/bmw-x5-3.0-4x4-30d-i6-turbo-diesel-4p-automatico-wmimagem12011638779.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201027/bmw-x5-3.0-4x4-30d-i6-turbo-diesel-4p-automatico-wmimagem12011782452.jpg",
@@ -548,39 +282,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201027/bmw-x5-3.0-4x4-30d-i6-turbo-diesel-4p-automatico-wmimagem12012504390.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201027/bmw-x5-3.0-4x4-30d-i6-turbo-diesel-4p-automatico-wmimagem12012563623.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201027/bmw-x5-3.0-4x4-30d-i6-turbo-diesel-4p-automatico-wmimagem1201261219.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34425483,
-      "make":"CHEVROLET",
-      "model":"ONIX",
-      "version":"1.0 MPFI LS 8V FLEX 4P MANUAL",
+      "brand":"Chevrolet",
+      "model":"Onix",
       "price":"R$ 26.900",
       "year":"2014/2015",
       "travelledDistance":"67000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca",
-         "Único dono",
-         "IPVA pago"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":false,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201007/chevrolet-onix-1.0-mpfi-ls-8v-flex-4p-manual-wmimagem11514899646.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201007/chevrolet-onix-1.0-mpfi-ls-8v-flex-4p-manual-wmimagem11515021529.jpg",
@@ -592,37 +303,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201007/chevrolet-onix-1.0-mpfi-ls-8v-flex-4p-manual-wmimagem11515246575.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201007/chevrolet-onix-1.0-mpfi-ls-8v-flex-4p-manual-wmimagem11515271536.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201007/chevrolet-onix-1.0-mpfi-ls-8v-flex-4p-manual-wmimagem11515296596.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34188241,
-      "make":"JEEP",
-      "model":"RENEGADE",
-      "version":"2.0 16V TURBO DIESEL TRAILHAWK 4P 4X4 AUTOMÁTICO",
+      "brand":"Jeep",
+      "model":"Renegade",
       "price":"R$ 86.900",
       "year":"2015/2016",
       "travelledDistance":"62000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/jeep-renegade-2.0-16v-turbo-diesel-trailhawk-4p-4x4-automatico-wmimagem08472121483.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/jeep-renegade-2.0-16v-turbo-diesel-trailhawk-4p-4x4-automatico-wmimagem08472091552.jpg",
@@ -633,37 +323,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/jeep-renegade-2.0-16v-turbo-diesel-trailhawk-4p-4x4-automatico-wmimagem08472338313.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/jeep-renegade-2.0-16v-turbo-diesel-trailhawk-4p-4x4-automatico-wmimagem08472395510.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/jeep-renegade-2.0-16v-turbo-diesel-trailhawk-4p-4x4-automatico-wmimagem08472444178.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34176864,
-      "make":"LEXUS",
-      "model":"CT200H",
-      "version":"1.8 16V HÍBRIDO 4P AUTOMÁTICO",
+      "brand":"Lexus",
+      "model":"Ct200h",
       "price":"R$ 90.000",
       "year":"2016/2017",
       "travelledDistance":"41250 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ct200h-1.8-16v-hibrido-4p-automatico-wmimagem13043384594.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ct200h-1.8-16v-hibrido-4p-automatico-wmimagem13043507857.jpg",
@@ -685,41 +354,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ct200h-1.8-16v-hibrido-4p-automatico-wmimagem13044316284.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ct200h-1.8-16v-hibrido-4p-automatico-wmimagem13044284473.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ct200h-1.8-16v-hibrido-4p-automatico-wmimagem13044540621.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":24240787,
-      "make":"HYUNDAI",
+      "brand":"Hyundai",
       "model":"I30",
-      "version":"2.0 MPFI GLS 16V GASOLINA 4P AUTOMÁTICO",
       "price":"R$ 32.000",
       "year":"2011/2012",
       "travelledDistance":"89000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Todas as revisões feitas pela agenda do carro",
-         "Único dono",
-         "Todas as revisões feitas pela concessionária",
-         "IPVA pago",
-         "Licenciado"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2018/201807/20180705/hyundai-i30-2.0-mpfi-gls-16v-gasolina-4p-automatico-wmimagem15495618772.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2018/201807/20180705/hyundai-i30-2.0-mpfi-gls-16v-gasolina-4p-automatico-wmimagem15495727023.jpg",
@@ -729,37 +373,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2018/201807/20180705/hyundai-i30-2.0-mpfi-gls-16v-gasolina-4p-automatico-wmimagem15495690714.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2018/201807/20180705/hyundai-i30-2.0-mpfi-gls-16v-gasolina-4p-automatico-wmimagem15495708845.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2018/201807/20180705/hyundai-i30-2.0-mpfi-gls-16v-gasolina-4p-automatico-wmimagem15495746554.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34237196,
-      "make":"TOYOTA",
-      "model":"PRIUS",
-      "version":"1.8 16V HÍBRIDO 4P AUTOMÁTICO",
+      "brand":"Toyota",
+      "model":"Prius",
       "price":"R$ 89.990",
       "year":"2017/2018",
       "travelledDistance":"22890 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/toyota-prius-1.8-16v-hibrido-4p-automatico-wmimagem13021620044.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/toyota-prius-1.8-16v-hibrido-4p-automatico-wmimagem13021655749.jpg",
@@ -781,38 +404,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/toyota-prius-1.8-16v-hibrido-4p-automatico-wmimagem13022049283.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/toyota-prius-1.8-16v-hibrido-4p-automatico-wmimagem13022195471.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/toyota-prius-1.8-16v-hibrido-4p-automatico-wmimagem13022247142.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34481036,
-      "make":"VOLKSWAGEN",
-      "model":"TIGUAN",
-      "version":"2.0 TSI 16V TURBO GASOLINA 4P TIPTRONIC",
+      "brand":"Volkswagen",
+      "model":"Tiguan",
       "price":"R$ 41.900",
       "year":"2011/2011",
       "travelledDistance":"113000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "IPVA pago",
-         "Licenciado"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":true,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":false,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/volkswagen-tiguan-2.0-tsi-16v-turbo-gasolina-4p-tiptronic-WMIMAGEM13571546857.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/volkswagen-tiguan-2.0-tsi-16v-turbo-gasolina-4p-tiptronic-WMIMAGEM13462415827.jpg",
@@ -822,39 +423,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/volkswagen-tiguan-2.0-tsi-16v-turbo-gasolina-4p-tiptronic-WMIMAGEM13513721059.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/volkswagen-tiguan-2.0-tsi-16v-turbo-gasolina-4p-tiptronic-WMIMAGEM13463452663.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/volkswagen-tiguan-2.0-tsi-16v-turbo-gasolina-4p-tiptronic-WMIMAGEM13464184657.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":33804269,
-      "make":"BMW",
+      "brand":"Bmw",
       "model":"535i",
-      "version":"3.0 GT 24V TURBO GASOLINA 4P AUTOMÁTICO",
       "price":"R$ 87.900",
       "year":"2011/2011",
       "travelledDistance":"89000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca",
-         "Único dono",
-         "IPVA pago"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":true,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200817/bmw-535i-3.0-gt-24v-turbo-gasolina-4p-automatico-WMIMAGEM10012397829.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200817/bmw-535i-3.0-gt-24v-turbo-gasolina-4p-automatico-WMIMAGEM10012577187.jpg",
@@ -864,38 +442,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200817/bmw-535i-3.0-gt-24v-turbo-gasolina-4p-automatico-WMIMAGEM10014350662.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200817/bmw-535i-3.0-gt-24v-turbo-gasolina-4p-automatico-WMIMAGEM10014891466.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202008/20200817/bmw-535i-3.0-gt-24v-turbo-gasolina-4p-automatico-WMIMAGEM10015383137.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34556512,
-      "make":"FIAT",
-      "model":"BRAVO",
-      "version":"1.8 ESSENCE 16V FLEX 4P AUTOMATIZADO",
+      "brand":"Fiat",
+      "model":"Bravo",
       "price":"R$ 32.000",
       "year":"2014/2014",
       "travelledDistance":"75000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "IPVA pago",
-         "Licenciado"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":true,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/fiat-bravo-1.8-essence-16v-flex-4p-automatizado-WMIMAGEM14393068146.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/fiat-bravo-1.8-essence-16v-flex-4p-automatizado-WMIMAGEM14393302893.jpg",
@@ -905,37 +461,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/fiat-bravo-1.8-essence-16v-flex-4p-automatizado-WMIMAGEM14444297661.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/fiat-bravo-1.8-essence-16v-flex-4p-automatizado-WMIMAGEM14431669489.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201019/fiat-bravo-1.8-essence-16v-flex-4p-automatizado-WMIMAGEM15140203032.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34176875,
-      "make":"LEXUS",
-      "model":"UX 250h",
-      "version":"2.0 VVT-I HYBRID F-SPORT CVT ",
+      "brand":"Lexus",
+      "model":"Ux 250h",
       "price":"R$ 197.990",
       "year":"2019/2019",
       "travelledDistance":"8660 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":false,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ux-250h-2.0-vvti-hybrid-fsport-cvt-wmimagem13043123772.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ux-250h-2.0-vvti-hybrid-fsport-cvt-wmimagem13043289764.jpg",
@@ -957,38 +492,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ux-250h-2.0-vvti-hybrid-fsport-cvt-wmimagem13042716578.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ux-250h-2.0-vvti-hybrid-fsport-cvt-wmimagem13042757188.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201028/lexus-ux-250h-2.0-vvti-hybrid-fsport-cvt-wmimagem13042810329.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":32146480,
-      "make":"FIAT",
-      "model":"GRAND SIENA",
-      "version":"1.6 MPI ESSENCE 16V FLEX 4P AUTOMATIZADO",
+      "brand":"Fiat",
+      "model":"Grand Siena",
       "price":"R$ 32.500",
       "year":"2015/2015",
       "travelledDistance":"61000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "IPVA pago",
-         "Licenciado"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":true,
-         "sellerBadges":false,
-         "carDelivery":false,
-         "trocaComTroco":false
-      },
-      "seller":"Pessoa Física",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202003/20200314/fiat-grand-siena-1.6-mpi-essence-16v-flex-4p-automatizado-WMIMAGEM17415087568.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202003/20200314/fiat-grand-siena-1.6-mpi-essence-16v-flex-4p-automatizado-WMIMAGEM17423919839.jpg",
@@ -997,37 +510,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202003/20200314/fiat-grand-siena-1.6-mpi-essence-16v-flex-4p-automatizado-WMIMAGEM17445755319.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202003/20200314/fiat-grand-siena-1.6-mpi-essence-16v-flex-4p-automatizado-WMIMAGEM17454301736.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202003/20200314/fiat-grand-siena-1.6-mpi-essence-16v-flex-4p-automatizado-WMIMAGEM17523575977.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34089535,
-      "make":"HONDA",
-      "model":"FIT",
-      "version":"1.4 LX 16V FLEX 4P MANUAL",
+      "brand":"Honda",
+      "model":"Fit",
       "price":"R$ 29.900",
       "year":"2009/2009",
       "travelledDistance":"92700 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":true,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Loja",
-      "href":"",
+      "automatic":false,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/honda-fit-1.4-lx-16v-flex-4p-manual-wmimagem09422292568.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/honda-fit-1.4-lx-16v-flex-4p-manual-wmimagem09422317529.jpg",
@@ -1044,41 +536,16 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/honda-fit-1.4-lx-16v-flex-4p-manual-wmimagem09422712844.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/honda-fit-1.4-lx-16v-flex-4p-manual-wmimagem09422744095.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202009/20200918/honda-fit-1.4-lx-16v-flex-4p-manual-wmimagem09422786289.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    },
    {
       "id":34409221,
-      "make":"HONDA",
-      "model":"CITY",
-      "version":"1.5 EXL 16V FLEX 4P AUTOMÁTICO",
+      "brand":"Honda",
+      "model":"City",
       "price":"R$ 73.900",
       "year":"2019/2019",
       "travelledDistance":"26000 km",
-      "location":"Belo Horizonte - MG",
-      "wasSold":false,
-      "attributes":[
-         "Aceita troca",
-         "Único dono",
-         "Todas as revisões feitas pela concessionária",
-         "IPVA pago",
-         "Garantia de fábrica"
-      ],
-      "stamps":{
-         "feiroes":{
-            "blackFeirao":false,
-            "megaFeirao":false,
-            "ofertaDestaque":false
-         },
-         "autopago":false,
-         "superPreco":false,
-         "sellerBadges":false,
-         "carDelivery":true,
-         "trocaComTroco":true
-      },
-      "seller":"Concessionária",
-      "href":"",
+      "automatic":true,
       "photos":[
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201006/honda-city-1.5-exl-16v-flex-4p-automatico-wmimagem11224265223.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201006/honda-city-1.5-exl-16v-flex-4p-automatico-wmimagem11224294939.jpg",
@@ -1089,9 +556,7 @@
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201006/honda-city-1.5-exl-16v-flex-4p-automatico-wmimagem11224546481.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201006/honda-city-1.5-exl-16v-flex-4p-automatico-wmimagem11224599522.jpg",
          "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2020/202010/20201006/honda-city-1.5-exl-16v-flex-4p-automatico-wmimagem11224690254.jpg"
-      ],
-      "wasFavorited":false,
-      "type":"car"
+      ]
    }
 ]
 }
